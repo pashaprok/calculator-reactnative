@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { PureComponent } from "react";
 import { StyleSheet, Text, View, TouchableOpacity, Dimensions } from 'react-native';
 import { keyTypes } from "../../logic/constants";
 import keys from "./keys";
@@ -7,7 +7,7 @@ import layout from "./layout";
 const screen = Dimensions.get("window");
 const buttonWidth = screen.width / 4;
 
-export default class KeyLayout extends Component {
+export default class KeyLayout extends PureComponent {
     //pендеринг кнопок
     renderKey = (key, cellIndex, buttonStyles, textStyles) => {
         if (key.label === "") {
