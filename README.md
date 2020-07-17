@@ -11,6 +11,6 @@ Installation
   - Yeah, that's it. Enjoy the calculator webapp.
   
   2. Run apk-file
-  
+  https://expo.io/dashboard/pashaprok23/builds/3680dff4-c858-4494-9d1e-2405fa435bf2  
   - download app(apk file) by using link above
   - install app on your phone
