@@ -1,4 +1,4 @@
-# calculator-reactnative
+# Calculator ReactNative
 
 Introduction
 This is a calculator app. you can also use this calculator for storing and recalling the value with Mc, Mr, M+, M- functionality (these are useful for complex operations).
