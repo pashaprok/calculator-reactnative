@@ -17,7 +17,13 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.pashaprok23.calculator",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.pashaprok23.calculator",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
